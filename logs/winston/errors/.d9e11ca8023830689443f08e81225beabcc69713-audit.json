@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/.d9e11ca8023830689443f08e81225beabcc69713-audit.json",
+    "files": [
+        {
+            "date": 1685872052502,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-04-06-15-error.log",
+            "hash": "8f93208633e0b520327e7b679d36225c100a11afaa80a302eea9454bdfc6aaaa"
+        },
+        {
+            "date": 1685873268680,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-04-06-16-error.log",
+            "hash": "74fcf0f0dba67d72dc4a0c698d13de5cc3b89f08f626eabd75b9f88fdd00afc5"
+        },
+        {
+            "date": 1685939874117,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-10-error.log",
+            "hash": "0deca6d86c1106e31569b6db24aedfb38de56608df756f7ae1a8f732c0083999"
+        },
+        {
+            "date": 1685942934972,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-11-error.log",
+            "hash": "3c29d5f457897bb81a90c860ebf2921c8355a85bdd334e4108a71780a43589ad"
+        },
+        {
+            "date": 1685945370113,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-12-error.log",
+            "hash": "0ed0023e4808b895d5814de26a03ba73553465270f3f3da7cba1dd342b71c539"
+        },
+        {
+            "date": 1685958545552,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-15-error.log",
+            "hash": "2976acf8f6f7903f37d56e2a370782ff5dad17e90070e8f7e4902aafd71e219a"
+        },
+        {
+            "date": 1685959579446,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-16-error.log",
+            "hash": "979c88bd5870701ec305c1477f6379ad37aa70737c055e42aecc805bc9356808"
+        },
+        {
+            "date": 1685974199533,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-05-06-20-error.log",
+            "hash": "b70e448d2a20b8c800e2545a9fc76c95585ef8ff61c58310c1ddf3d13dea65f3"
+        },
+        {
+            "date": 1686438986180,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-11-06-05-error.log",
+            "hash": "29c7bcd74e0ad771f528e69765bb75069f3a2491c1f31a402ca199552a455883"
+        },
+        {
+            "date": 1686443017637,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-11-06-06-error.log",
+            "hash": "d772108fdaa8603e5ef13e429a82b63c7528e9320eee994323cfd69e54895653"
+        },
+        {
+            "date": 1686445392032,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-11-06-07-error.log",
+            "hash": "455863cb5526ae2b7e59590f17818bc3a3498533d2d8334284dd4c538105dcb9"
+        },
+        {
+            "date": 1686543859629,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-12-06-10-error.log",
+            "hash": "5716ec144ec77382b07b3e8f577d739429b324ced83a252a84368b3682e30c12"
+        },
+        {
+            "date": 1686556930503,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-12-06-14-error.log",
+            "hash": "e20ae58ee8baf2112a450cfc8cf7d712b1b2525a459d169d5d3f371cd7d8aeac"
+        },
+        {
+            "date": 1686567024183,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-12-06-16-error.log",
+            "hash": "e57b8f0762a315bf1bd3eece173200d6ff14d6685717aa4e6e0940e7f85142d9"
+        },
+        {
+            "date": 1686567905542,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-12-06-17-error.log",
+            "hash": "f549274bc34fd1f2d7f6d26e9c194f53c633e264cce8aea167ed18ad38878840"
+        },
+        {
+            "date": 1686589160213,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-12-06-22-error.log",
+            "hash": "d09435c3f7c23611cea408a3d3ef8f086ddda98a8c6252a3d1a7958820964340"
+        },
+        {
+            "date": 1686725470974,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-14-06-12-error.log",
+            "hash": "77ae16d3477bbea07e25e9f7319ee72b04007d64d9cc4d165c62cd20b6650fe0"
+        },
+        {
+            "date": 1686804101364,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-15-06-10-error.log",
+            "hash": "11691f3977e61b2950c0be45d61acdd56890af63c1bc3ae4d3ee350746e53d22"
+        },
+        {
+            "date": 1686807386634,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-15-06-11-error.log",
+            "hash": "f0e068bbb33f402dd81a29d60417c980858df275e3e5eb8b9fbcfd87e4680121"
+        },
+        {
+            "date": 1686809555576,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-15-06-12-error.log",
+            "hash": "20ec9df792f77f0b7c63e361ebdd4ca42f2f1be7d17e1081f973cfa8f6dbfed9"
+        },
+        {
+            "date": 1686870277775,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-16-06-05-error.log",
+            "hash": "c3644b53c4f928a69a8ccf77daa743f64df2bf35207d539ab9ac08314ebf9183"
+        },
+        {
+            "date": 1686873687013,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/errors/phu-2023-16-06-06-error.log",
+            "hash": "e01066348ad39d1459ab67c798b20090360117394b43fdcec37921b39f05d9c8"
+        }
+    ],
+    "hashType": "sha256"
+}

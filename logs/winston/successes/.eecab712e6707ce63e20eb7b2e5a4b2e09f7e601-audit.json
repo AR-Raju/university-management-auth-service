@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/successes/.eecab712e6707ce63e20eb7b2e5a4b2e09f7e601-audit.json",
+    "files": [
+        {
+            "date": 1685872060447,
+            "name": "/home/hp/asikur/practice/level_2/univeristy-management-auth-service/logs/winston/successes/phu-2023-04-06=-15-success.log",
+            "hash": "95ddf7cd01e095a14d161d8a08d2d0dcae1a4dc5ee5e572507993ea3bb1f889f"
+        }
+    ],
+    "hashType": "sha256"
+}
